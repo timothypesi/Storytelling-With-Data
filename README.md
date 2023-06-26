@@ -1,5 +1,4 @@
 # Storytelling-With-Data
-Here I have implemented few graphs from the book using Python and matplotlib library. Kindly find well documented Jupyter Notebooks for plots.
+Here I have implemented a few graphs from the book using Python and matplotlib library. Kindly find well-documented Jupyter Notebooks for plots.
 
-# storytelling-with-data
-http://www.storytellingwithdata.com/book/
+Check out this book for some more amazing examples - http://www.storytellingwithdata.com/book/
